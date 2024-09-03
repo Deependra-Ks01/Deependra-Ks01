@@ -6,8 +6,7 @@ Interested and creative minds are highly of my interest to work in collaboration
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deependra-Ks01)](https://github.com/anuraghazra/github-readme-stats)
 
-Contact: 
-- dksair02@icloud.com
+Contact: dksair02@icloud.com
 <!--
 **Deependra-Ks01/Deependra-Ks01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
