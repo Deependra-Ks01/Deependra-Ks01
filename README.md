@@ -1,6 +1,8 @@
 ## Hi! 
 
-#### I'm Deependra Kumar Singh pursuing Btech Major in Computer Science and Engineering and minor in GenAI. Currently, I'm working on Java_<COFFEE> Repo. in Java and Design Algo. in C++. Interested and creative minds are highly of my interest to work in collaboration.
+#### I'm Deependra Kumar Singh pursuing Btech Major in Computer Science and Engineering and minor in GenAI. Currently, I'm working on Java_<COFFEE> Repo. in Java and Design Algo. in C++. 
+
+Interested and creative minds are highly of my interest to work in collaboration.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deependra-Ks01)](https://github.com/anuraghazra/github-readme-stats)
 
