@@ -4,6 +4,8 @@ I'm Deependra Kumar Singh pursuing Btech Major in Computer Science and Engineeri
 
 Interested and creative minds are highly of my interest to work in collaboration.
 
+I'm doing many projects these days.
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deependra-Ks01)](https://github.com/anuraghazra/github-readme-stats)
 
 Contact: dksair02@icloud.com
