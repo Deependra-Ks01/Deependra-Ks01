@@ -1,21 +1,21 @@
-<h1 align="center">Hi, I'm [Your Name].</h1>
+<h1 align="center">Hi, I'm Deependra Kumar Singh.</h1>
 
 <p align="center">
-  I am a [Job Title] based in [Location].<br>
-  I focus on building accessible, high-performance web applications.
+  I am a Student at Indian Institute of Information Technology (IIIT), Dharwad.<br>
+  I focus on building accessible, high-performance web applications, ios apps and AI tools.
 </p>
 
 <p align="center">
-  <a href="mailto:your-email@example.com">Email</a> •
-  <a href="https://twitter.com/yourhandle">Twitter</a> •
-  <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> •
-  <a href="https://yourwebsite.com">Portfolio</a>
+  <a href="dksair02@icloud.com">Email</a> •
+  <a href="https://x.com/dflightofbyte_">Twitter</a> •
+  <a href="https://www.linkedin.com/in/deependra-k-2469a0196/">LinkedIn</a> •
+  <a href="https://portfolio-iota-ten-mh34qn25yo.vercel.app">Portfolio</a>
 </p>
 
 <br>
 
 ### Technology
-`Python`  `JavaScript`  `React`  `PostgreSQL`  `Docker`  `AWS`
+'Swift'  `Python`  'Java'  `JavaScript`  `React`  `PostgreSQL`  `Docker`  `AWS`   
 
 ### Current Focus
 Currently exploring **Rust** and **WebAssembly** to optimize data processing pipelines.
