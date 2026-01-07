@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Deependra Kumar Singh.</h1>
 
 <p align="center">
-  <b>Computer Science and Engineering</b> major and <b>GenAI</b> minor Student at Indian Institute of Information Technology (IIIT), Dharwad.
+  <b>Computer Science and Engineering</b> major and <b>GenAI</b> minor Student at <br>Indian Institute of Information Technology (IIIT), Dharwad.
 </p>
 
 <p align="center">
