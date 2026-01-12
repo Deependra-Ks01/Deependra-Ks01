@@ -23,7 +23,7 @@
 `Swift`  `Python`  `Java`  `JavaScript`  `React`  `PostgreSQL`  `Docker`  `AWS`  `Blockchain`
 
 ### Current Focus
-I am currently architecting **full-stack solutions** and building **native iOS apps**. 
+I am currently architecting **full-stack solutions** and building **native iOS app "Finance"**. 
 
 Simultaneously, I am diving deep into:
 * **AI Agents:** Developing autonomous systems and tools.
