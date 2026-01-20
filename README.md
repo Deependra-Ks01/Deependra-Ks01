@@ -29,6 +29,7 @@ Simultaneously, I am diving deep into:
 * **AI Agents:** Developing autonomous systems and tools.
 * **Web3:** exploring Blockchain protocols.
 * **Infrastructure:** Leveraging Cloud Computing for scalable deployments.
+* **iOS** 
 
 <br>
 <p align="right">
