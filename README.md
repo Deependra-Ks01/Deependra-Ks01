@@ -27,7 +27,7 @@ I am currently architecting **full-stack solutions** and building **native iOS a
 
 Simultaneously, I am diving deep into:
 * **AI Agents:** Developing autonomous systems and tools.
-* **Web3:** exploring Blockchain protocols.
+* **Web3:** exploring Blockchain protocols and smart contracts.
 * **Infrastructure:** Leveraging Cloud Computing for scalable deployments.
 * **iOS:** SwiftUI.
 
