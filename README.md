@@ -23,7 +23,7 @@
 `Swift`  `Python`  `Java`  `JavaScript`  `React`  `PostgreSQL`  `Docker`  `AWS`  `Blockchain`
 
 ### Current Focus
-I am currently architecting **full-stack solutions** and building **native iOS app "Finance"**.
+I am currently building **native iOS apps** and working on Multi-Agents project. Looking for 6 months - 1 year internship. 
 
 Simultaneously, I am diving deep into:
 * **AI Agents:** Developing autonomous systems and tools.
